@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-add other lines exercise
-=======
-add lines exercise 
->>>>>>> 99db51e44af4e462981793420bc0704d0702823e
+added lines online
